@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/wedding-invitation/static/css/main.f4f47b92.css",
-    "main.js": "/wedding-invitation/static/js/main.de874d12.js",
+    "main.js": "/wedding-invitation/static/js/main.71675baf.js",
     "static/js/787.9b74c651.chunk.js": "/wedding-invitation/static/js/787.9b74c651.chunk.js",
-    "static/media/Gallery_Photo_1.png": "/wedding-invitation/static/media/Gallery_Photo_1.6cc935afe301af47d5f0.png",
+    "static/media/Gallery_Photo_1.png": "/wedding-invitation/static/media/Gallery_Photo_1.f42379cc29219be02ebd.png",
     "static/media/Gallery_Photo_6.png": "/wedding-invitation/static/media/Gallery_Photo_6.0806ef8d008061ea1e9c.png",
     "static/media/Gallery_Photo_4.png": "/wedding-invitation/static/media/Gallery_Photo_4.c4d5e380f97dca936979.png",
     "static/media/Gallery_Photo_2.png": "/wedding-invitation/static/media/Gallery_Photo_2.4802d9bf2b80ab7091c7.png",
@@ -13,11 +13,11 @@
     "static/media/Title.png": "/wedding-invitation/static/media/Title.77f2dc0a287e8a5d0df3.png",
     "index.html": "/wedding-invitation/index.html",
     "main.f4f47b92.css.map": "/wedding-invitation/static/css/main.f4f47b92.css.map",
-    "main.de874d12.js.map": "/wedding-invitation/static/js/main.de874d12.js.map",
+    "main.71675baf.js.map": "/wedding-invitation/static/js/main.71675baf.js.map",
     "787.9b74c651.chunk.js.map": "/wedding-invitation/static/js/787.9b74c651.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f4f47b92.css",
-    "static/js/main.de874d12.js"
+    "static/js/main.71675baf.js"
   ]
 }
