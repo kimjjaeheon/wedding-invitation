@@ -24,7 +24,7 @@ const Configs: ConfigsType = {
   bride: {
     name: '김소현',
     accountNumber: '우리은행 396176-765-02001',
-    fatherName: '김',
+    fatherName: '김형일',
     fatherAccountNumber: '○○은행 ***-***-******',
     motherName: '서명초',
     motherAccountNumber: '○○은행 ***-***-******',
